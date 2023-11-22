@@ -1,0 +1,7 @@
+body {
+    font-family: 'montserrat', sans-serif;
+    background-image: url(assets/bg.jpg);
+    max-height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
